@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kelpshake04.github.io/whisky-deals-kr/sitemap.xml
