@@ -3,7 +3,7 @@
   <channel>
     <title>위스키픽 KR — 오늘의 국내 위스키 특가</title>
     <link>https://kelpshake04.github.io/whisky-deals-kr/</link>
-    <description>롯데마트 보틀벙커 블랙벙커데이(~11/25 마감 임박), 데일리샷 블랙프라이데이(~12/6), GS25 20% 결제 할인(~11/30) 등 연말 핵심 주류 특가를 한곳에 모았습니다.</description>
+    <description>롯데마트 보틀벙커 블랙벙커데이(~11/25 마감 D-1), 데일리샷 블랙프라이데이(~12/6), CU·GS25 몽키숄더 미니 백팩 키링 한정 패키지, GS25 20% 결제 할인(~11/30) 등 연말 핵심 주류 특가를 한곳에 모았습니다.</description>
     <language>ko</language>
     <lastBuildDate>2026-11-24</lastBuildDate>
     <item>
@@ -25,6 +25,12 @@
       <description>네이버페이 QR 결제: 행사 위스키 13종 20% 현장 할인 / 삼성카드 결제: 장터 대상 와인·위스키 120종 20% 현장 할인 / 주요 품목: 조니워커 블루, 맥캘란 더블캐스크 12년, 발렌타인 글렌버기 12년 / 우리동네GS 앱 &#x27;이달의 위스키&#x27; 기획전 최대 ~50% 할인</description>
     </item>
     <item>
+      <title>[CU · GS25] 몽키숄더 500ml 미니 백팩 키링 한정판 굿즈 패키지</title>
+      <link>https://kelpshake04.github.io/whisky-deals-kr/#cu-gs25-monkeyshoulder-202611</link>
+      <guid isPermaLink="false">cu-gs25-monkeyshoulder-202611-2026-11-24</guid>
+      <description>몽키숄더 500ml 구매 시 시그니처 오렌지 컬러 &#x27;미니 백팩 키링&#x27; 부착 패키지 판매 / 가방·파우치 액세서리 및 무선 이어폰 등 소지품 수납 가능한 실용 굿즈 / 연말 홈파티·진저 몽키 하이볼 시즌 겨냥 한정 수량 프로모션</description>
+    </item>
+    <item>
       <title>[이마트24 · 보틀오더] 11월 매장 할인 &amp; 보틀오더 앱 쿠폰 프로모션</title>
       <link>https://kelpshake04.github.io/whisky-deals-kr/#emart24-nov-202611</link>
       <guid isPermaLink="false">emart24-nov-202611-2026-11-24</guid>
@@ -40,7 +46,7 @@
       <title>[국내 신제품 · 한정판] 2026년 11월 주목할 위스키 신제품 출시</title>
       <link>https://kelpshake04.github.io/whisky-deals-kr/#new-release-202611</link>
       <guid isPermaLink="false">new-release-202611-2026-11-24</guid>
-      <description>시바스 리갈 16년 샤를 르클레르 한정판 (11/18 출시) — 현대백화점 단독 판매 / 블랑톤(Blanton&#x27;s) 싱글배럴 2종 (오리지널·골드) — 국내 면세점 최초 신라인터넷면세점 단독 론칭</description>
+      <description>시바스 리갈 16년 샤를 르클레르 한정판 (11/18 출시) — 현대백화점 단독 판매 / 블랑톤(Blanton&#x27;s) 싱글배럴 2종 (오리지널·골드) — 국내 면세점 최초 신라인터넷면세점 단독 론칭 / 부나하벤 안 쿠안 가르브 No.1 (15년 화이트 포트 캐스크 피니시) — 이마트 와인그랩 독점 한정판 / 잭 다니엘스 싱글 배럴 배럴 스트렝스 퍼스널 컬렉션 (62.5도, 약 2,200병 한정 · 이마트 전용 백두산 호랑이 메달 동봉) / 더 글렌리벳 12년 프로방스 에디션 — 프랑스 화이트 와인 캐스크 피니시 한정판</description>
     </item>
   </channel>
 </rss>
